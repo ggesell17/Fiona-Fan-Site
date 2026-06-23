@@ -1,15 +1,15 @@
 # 🐕 Fiona Fan Site!
-**After having spent a semester working with p5.js, it was time to create our final projects. I decided that Fiona would be the perfect subject to be the core theme**
+Meet Fiona — a Miniature Schnauzer/Shih Tzu mix and the star of this p5.js final project. Built over one month as a creative coding capstone, this fan site is a love letter in web form.
 
 <img width="36%" alt="Screenshot 2026-06-23 155358" src="https://github.com/user-attachments/assets/c5f03e26-0030-449e-abf1-09d66de1e32f" />
-<img width="59%" height="567" alt="Fiona2" src="https://github.com/user-attachments/assets/ccf3a40b-766a-4da4-8451-e106f7083bb3" />
 
-This is a project that I put together within 1 month, as that was my time constraint.
+## 🚀 Features
+* A 3D bubble photo gallery built in WEBGL with interactive orbit controls
+* A visual-novel style minigame following Fiona through her day, complete with multi-scene navigation and WASD movement
 
-## 🚀 Features: 
-- Utilizes a 3D space with 3D models as a gallery
-- Utilizes assets (PNGs, JPEGs) to create a small visual-novel style game
+<img width="59%" alt="Fiona2" src="https://github.com/user-attachments/assets/ccf3a40b-766a-4da4-8451-e106f7083bb3" />
 
 ## 🛠️ Built With
-- IDE: GitHub Codespaces
-- Languages: JavaScript, p5.js, HTML, CSS
+* Languages: HTML, CSS, JavaScript
+* Library: p5.js
+* Dev Environment: GitHub Codespaces
