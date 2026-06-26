@@ -13,3 +13,5 @@ Meet Fiona — a Miniature Schnauzer/Shih Tzu mix and the star of this p5.js fin
 * Languages: HTML, CSS, JavaScript
 * Library: p5.js
 * Dev Environment: GitHub Codespaces
+
+Click [Here](ggesell17.github.io/Fiona-Fan-Site/) to go straight to the webpage
