@@ -1,6 +1,8 @@
 # 🐕 Fiona Fan Site!
 Meet Fiona — a Miniature Schnauzer/Shih Tzu mix and the star of this p5.js final project. Built over one month as a creative coding capstone, this fan site is a love letter in web form.
 
+Click **[Here](ggesell17.github.io/Fiona-Fan-Site/)** to go straight to the fan site
+
 <img width="36%" alt="Screenshot 2026-06-23 155358" src="https://github.com/user-attachments/assets/c5f03e26-0030-449e-abf1-09d66de1e32f" />
 
 ## 🚀 Features
@@ -13,5 +15,3 @@ Meet Fiona — a Miniature Schnauzer/Shih Tzu mix and the star of this p5.js fin
 * Languages: HTML, CSS, JavaScript
 * Library: p5.js
 * Dev Environment: GitHub Codespaces
-
-Click [Here](ggesell17.github.io/Fiona-Fan-Site/) to go straight to the webpage
